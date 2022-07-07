@@ -1,2 +1,1 @@
-# p-school
 # E-School
